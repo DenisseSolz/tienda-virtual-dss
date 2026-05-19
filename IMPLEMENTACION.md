@@ -306,3 +306,5 @@ Al finalizar tendras:
 - Pruebas unitarias y E2E
 - CodeQL activo
 - GitHub Actions ejecutando Cypress solo en PR `develop -> main`
+
+...
